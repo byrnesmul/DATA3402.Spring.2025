@@ -104,6 +104,11 @@ Training took about 5–10 minutes total.
 
 ---
 
+## Citation
+
+> Reade, W., & Chow, A. (2024). *Binary Classification with a Bank Churn Dataset*. Kaggle.  
+> https://kaggle.com/competitions/playground-series-s4e1
+
 ## Software Setup
 
 - Python 3
@@ -115,7 +120,4 @@ Training took about 5–10 minutes total.
 Install all packages using:
 ```bash
 pip install pandas numpy scikit-learn matplotlib
-## Citation
-
-> Reade, W., & Chow, A. (2024). *Binary Classification with a Bank Churn Dataset*. Kaggle.  
-> https://kaggle.com/competitions/playground-series-s4e1
+---
