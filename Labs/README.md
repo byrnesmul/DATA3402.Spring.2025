@@ -116,10 +116,12 @@ Install all packages using:
 ```bash
 pip install pandas numpy scikit-learn matplotlib
 
+```bibtex
 @misc{playground-series-s4e1,
-    author = {Walter Reade and Ashley Chow},
-    title = {Binary Classification with a Bank Churn Dataset },
-    year = {2024},
-    howpublished = {\url{https://kaggle.com/competitions/playground-series-s4e1}},
-    note = {Kaggle}
+  author       = {Walter Reade and Ashley Chow},
+  title        = {Binary Classification with a Bank Churn Dataset},
+  year         = {2024},
+  howpublished = {\url{https://kaggle.com/competitions/playground-series-s4e1}},
+  note         = {Kaggle}
 }
+```
