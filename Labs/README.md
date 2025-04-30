@@ -19,8 +19,8 @@ This repository holds an attempt to predict customer churn using data from a Kag
 - **Input**: Customer demographic and banking activity features
 - **Output**: Churn flag (Exited: 0 = Stayed, 1 = Left)
 - **Size**: 
-  - Train: ~8000 examples
-  - Test: ~2000 examples
+  - Train: ~80%
+  - Test: ~20%
 
 ### Preprocessing / Clean up
 - Dropped irrelevant features (ID, Customer ID, Surname).
